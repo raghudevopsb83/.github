@@ -15,6 +15,7 @@ Following are the links that we will refer in the training
 
 # Create a server in AWS 
 
+Direct Image URL: https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Images:visibility=public-images;owner=973714476881;v=3;$case=tags:false%5C,client:false;$regex=tags:false%5C,client:false
 
 Open URL:
 
