@@ -2,7 +2,6 @@ Following are the links that we will refer in the training
 
 | __  | Link | Comments |
 | ------------- | ------------- | ------------- |
-| Lab Session | https://us06web.zoom.us/j/82409997274?pwd=4RSaIpSicncaAb83ZiOWk4QsxCk0fj.1 | Timings: 1pm to 9pm IST |
 | Killercoda | https://killercoda.com/rkalluru |  |
 | Miro Link | https://miro.com/app/board/uXjVLpuNJUc=/?share_link_id=887788532350 | |
 | AWS Account Signup Video | https://www.youtube.com/watch?v=JFwAS_8BZvM |  |
