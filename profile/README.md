@@ -2,6 +2,7 @@ Following are the links that we will refer in the training
 
 | __  | Link | Comments |
 | ------------- | ------------- | ------------- |
+| Syllabus | https://docs.google.com/document/d/1fxdXNqmxY02YNu558Tt5eQ0kQqj8EatSIIRpuDStFqU/edit?tab=t.0 | |
 | Killercoda | https://killercoda.com/rkalluru |  |
 | Miro Link | https://miro.com/app/board/uXjVLpuNJUc=/?share_link_id=887788532350 | |
 | AWS Account Signup Video | https://www.youtube.com/watch?v=JFwAS_8BZvM |  |
